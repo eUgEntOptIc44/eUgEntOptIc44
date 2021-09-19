@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @eUgEntOptIc44
 - 👀 I’m interested in web development, android, java, python, ...
-- 📫 How to reach me checkout my profile at codeberg.org
+- 📫 How to reach me: checkout my profile at codeberg.org
