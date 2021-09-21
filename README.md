@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @eUgEntOptIc44
-- 👀 I’m interested in web development, android, java, python, ...
-- 📫 How to reach me: checkout my profile at codeberg.org
+- 👋 Hi, I’m @eUgEntOptIc44 a self-trained web full stack developer
+- 👀 I’m interested in web development, android, java, python, open source, CyberSec, privacy friendly apps ...
+- 📫 How to reach me: checkout my profile at [codeberg.org](https://codeberg.org/eUgEntOptIc44)
+- 📢 I speak: English, German and French
